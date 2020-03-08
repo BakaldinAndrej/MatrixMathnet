@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMathnet", "MatrixMathnet\MatrixMathnet.csproj", "{D09ABF36-7736-495C-85E5-E5B5E4D61BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMathnet.tests", "MatrixMathnet.tests\MatrixMathnet.tests.csproj", "{77738F62-BA79-4C3C-854C-108E26CC058A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09ABF36-7736-495C-85E5-E5B5E4D61BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09ABF36-7736-495C-85E5-E5B5E4D61BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09ABF36-7736-495C-85E5-E5B5E4D61BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09ABF36-7736-495C-85E5-E5B5E4D61BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77738F62-BA79-4C3C-854C-108E26CC058A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77738F62-BA79-4C3C-854C-108E26CC058A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77738F62-BA79-4C3C-854C-108E26CC058A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77738F62-BA79-4C3C-854C-108E26CC058A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5FF857-CB80-4D64-985D-F2CCA82AEDEE}
+	EndGlobalSection
+EndGlobal
